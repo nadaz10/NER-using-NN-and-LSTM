@@ -1,4 +1,4 @@
-# NER-using-NN-and-LSTM
+
 # Named Entity Recognition using Nerual Network (NN) and Longest-Short Term Memory (LSTM)
 
 ## Problem Description
