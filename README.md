@@ -9,14 +9,14 @@ Completed the missing parts in the implemented neural networks (NN) for NER.
 
 [Original Notebook Link](https://colab.research.google.com/drive/1T72Qvh0hcAd7xurfT9VBv1BTkucNtAWj)
 
-[Our solution]()
+[Our solution](https://github.com/nadaz10/NER-using-NN-and-LSTM/blob/main/Copy_of_A3P1_Named_Entity_Recognition_FFNNs.ipynb)
 
 ## Programming Problem 2: LSTMs for NER
 Completed the missing parts in the implemented LSTMs for NER. 
 
 [Original Notebook Link](https://colab.research.google.com/drive/1LMWhGU6LOIrKuB35CtaVxFGm8vjc7TCq)
 
-[Our solution]()
+[Our solution](https://github.com/nadaz10/NER-using-NN-and-LSTM/blob/main/A3P2_Named_Entity_Recognition_LSTMs.ipynb)
 
 ## How to Use
 1. Open the provided notebook for each programming problem.
